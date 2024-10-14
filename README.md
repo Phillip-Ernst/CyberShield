@@ -1,4 +1,4 @@
-# ThreatCheck
+# CyberShield
 
 ThreatCheck is a web-based platform that allows users to upload files or submit URLs for malware analysis.
 
