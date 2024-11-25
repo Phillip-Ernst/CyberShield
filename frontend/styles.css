@@ -91,10 +91,10 @@ footer {
     font-size: 0.9rem;
 }
 .subtitle {
-    text-align: center;           /* Center the text */
-    font-size: 1.2rem;            /* Slightly larger font */
-    color: #FF6347;               /* Tomato color for contrast */
-    margin-bottom: 20px;          /* Add some space below the text */
-    font-style: italic;           /* Make the text italic for emphasis */
+    text-align: center;           
+    font-size: 1.2rem;            
+    color: #FF6347;             
+    margin-bottom: 20px;         
+    font-style: italic;        
 }
 
